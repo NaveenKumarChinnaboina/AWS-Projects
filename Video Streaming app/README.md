@@ -1,4 +1,4 @@
- # **Transcode Video with S3 and Elastic transcoder**
+ # **Transcode Video with S3 and Elastic transcoder V1 **
 
 ## Table of Content 
  1) [S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html)
