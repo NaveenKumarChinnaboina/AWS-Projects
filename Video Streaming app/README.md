@@ -10,3 +10,7 @@
  4) [SNS Topic](https://docs.aws.amazon.com/sns/latest/dg/sns-create-topic.html)
 
  5) [IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html#getting-started-roles)
+
+## Architecure diagram 
+
+  ![VS.jpeg]
