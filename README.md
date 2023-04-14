@@ -1,4 +1,4 @@
-**AWS-project's**
+# **AWS-project's**
 
-This repository contains set of project for the AWS and Open source.
+In this repository, you can find implementations that utilize Amazon's native services as well as open source tools.
 
