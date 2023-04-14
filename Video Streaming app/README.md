@@ -13,4 +13,4 @@
 
 ## Architecure diagram 
 
-  ![VS.jpeg]
+  VS.jpeg
